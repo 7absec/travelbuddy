@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<?php
-error_reporting(0)
-?>
 <head>
 <style>
     
@@ -313,6 +310,9 @@ error_reporting(0)
 </style>  
 </head>
 <body>
+    <?php
+error_reporting(0)
+?>
     <title>Travel Buddy</title>
     <div class="container">
         <p class="p1">9998887723</p>
