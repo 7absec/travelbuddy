@@ -1,7 +1,7 @@
-<!DOCTYPE html>
 <?php
 error_reporting(0)
 ?>
+<!DOCTYPE html>
 <head>
 <style>
     
