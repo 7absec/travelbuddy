@@ -437,7 +437,8 @@
 
     .contact  .text
     {
-        margin-left: 1vw;
+        position:absolute;
+        margin-right: 1vw;
         color: white;
         font-family: "Agency FB";
         font-size: 2vw;
@@ -455,10 +456,11 @@
 
     .mail  .text
     {
-        margin-left: 1vw;
+        position:absolute;
+        margin-right: 1vw;
         color: white;
         font-family: "Agency FB";
-        font-size: 2vw;
+        font-size: 1.5vw;
         float: right;
     }
 
