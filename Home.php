@@ -171,7 +171,7 @@
         text-align: center;
         top: 3vw;
         left: 43%;
-        font-family: "Brush Script MT";
+        font-family: "Forte";
         font-size: 2vw;
     }
 
@@ -442,8 +442,7 @@
         font-family: "Agency FB";
         font-size: 2vw;
         float: right;
-        margin-top: 0.3vw;
-        margin-right: 0.7vw;
+       
     }
 
     .mail img
@@ -461,8 +460,6 @@
         font-family: "Agency FB";
         font-size: 2vw;
         float: right;
-        margin-top: 0.3vw;
-        margin-right: 0.7vw;
     }
 
     .end
