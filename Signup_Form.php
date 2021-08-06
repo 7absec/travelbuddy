@@ -239,8 +239,8 @@
                 width: 60%;
                 left: 27%;
                 bottom: 10%;
-                font-family: "Agency FB";
-                font-size:7.5vw ;
+                font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+                font-size:7vw ;
                 text-align: center;
             }
 
