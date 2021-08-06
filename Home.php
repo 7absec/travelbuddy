@@ -171,7 +171,7 @@
         text-align: center;
         top: 3vw;
         left: 43%;
-        font-family: "BrushScriptMT";
+        font-family: "Brush Script MT";
         font-size: 2vw;
     }
 
