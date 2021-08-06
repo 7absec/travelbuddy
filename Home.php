@@ -335,7 +335,7 @@
         font-family:"Agency FB";
         font-size: 1.9vw;
         margin-left: 0.5vw;
-        margin-top: 3.9vw;
+        margin-top: 4.3vw;
     }
     .column1:hover
     {
@@ -437,6 +437,7 @@
 
     .contact  .text
     {
+        margin-top:0.5vw;
         position:absolute;
         margin-left: 5vw;
         color: white;
@@ -456,6 +457,7 @@
 
     .mail  .text
     {
+        margin-top:0.5vw;
         position:absolute;
         margin-left: 5vw;
         color: white;
