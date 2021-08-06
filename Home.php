@@ -352,8 +352,8 @@
 
     .footer
     {
-        width: 120%;
-        height: 23vw;
+        width: 100%;
+        height: 27vw;
         position: relative;
         background-color: #262e3d;
     }
