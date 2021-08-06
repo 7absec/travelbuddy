@@ -236,9 +236,9 @@
             {
                 position: absolute;
                 color: black;
-                width: 60%;
+                width: 70%;
                 left: 27%;
-                bottom: 10%;
+                bottom: 7%;
                 font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
                 font-size:7vw ;
                 text-align: center;
@@ -460,17 +460,17 @@
         <h1>Sign Up</h1>
 
         <div class="container">
-        <input type="text" placeholder="Full Name" required><img src="Images/login/name.png" width="15%" height="100%" style="position: absolute;float: left;"></input>
+        <input type="text" placeholder="Full Name" required><img src="Images/login/name.png" width="10%" height="100%" style="position: absolute;float: left;"></input>
         </div>
         <br>
 
         <div class="container">
-            <input type="email" placeholder="Email" required><img src="Images/login/mail.png" width="15%" height="100%" style="position: absolute;float: left;"></input>
+            <input type="email" placeholder="Email" required><img src="Images/login/mail.png" width="10%" height="100%" style="position: absolute;float: left;"></input>
         </div>
         <br>
 
         <div class="container">
-            <input type="text" placeholder="Contact Number" required><img src="Images/login/contact.png" width="15%" height="100%" style="position: absolute;float: left;"></input>
+            <input type="text" placeholder="Contact Number" required><img src="Images/login/contact.png" width="10%" height="100%" style="position: absolute;float: left;"></input>
         </div>
         <br>
 
