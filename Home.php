@@ -488,14 +488,14 @@
         <p class="p1">travelbuddy@gmail.com</p>
         <p class="p1">.</p>
         <p class="p1">Mumbai, India</p>
-        <a href="Signup_Form.html">Sign Up</a>
-        <a href="Sign_In.html">Sign In</a>
+        <a href="Signup_Form.php">Sign Up</a>
+        <a href="Sign_In.php">Sign In</a>
     </div>
     <div class="navbar">
         <div class="a1"><image src="Images/travellogo.png"  class="navimage" alt="Website Logo"></image></div>
         <a href="#">CONTACT US</a>
         <a href="#">DASHBOARD</a>
-        <a href="home.html">HOME</a>
+        <a href="home.php">HOME</a>
     </div>
     
     
