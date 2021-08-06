@@ -335,7 +335,7 @@
         font-family:"Agency FB";
         font-size: 1.9vw;
         margin-left: 0.5vw;
-        margin-top: 4.9vw;
+        margin-top: 5.3vw;
     }
     .column1:hover
     {
