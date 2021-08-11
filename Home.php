@@ -561,11 +561,11 @@
         <div class="column">
             <a href="#"><img src="Images/Places/losangeles.jpg" alt="Image of the city Los Angeles ">
             <div class="name">Los Angeles,USA</div>
-            <div class="detail">1.See the View from the CN Tower
-            <br>2.Visit the Royal Ontario Museum (ROM)
-            <br>3.Ripley's Aquarium of Canada
-            <br>4.Art Gallery of Ontario (AGO)
-            <br>5.Day Trip to Niagara Falls
+            <div class="detail">1.Universal Studios Hollywood
+            <br>2.Griffith Park and Griffith Observatory
+            <br>3.Disneyland Resort
+            <br>4.Hollywood
+            <br>5.Natural History Museum of Los Angeles County
             <br><br>Click for more details...
             </div>
             </a>
