@@ -355,7 +355,7 @@
     </div>
 
     <div class="rightcolumn">
-        <a href="Home.html" class="home"> <b> << Back To Home</b></a>
+        <a href="Home.php" class="home"> <b> << Back To Home</b></a>
         <h1>Sign in</h1>
         <label><b>User ID</b></label>
         <input type="text" placeholder="User ID" id="text"><div class="text"><img src="Images/login/user.png" width="100%" height="100%"></div></input>
