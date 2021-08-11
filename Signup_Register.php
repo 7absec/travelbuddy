@@ -427,7 +427,7 @@
     </div>
 
     <div class="rightcolumn">
-        <a href="Signup_Form.html" class="home"> <b> << Back </b></a>
+        <a href="Signup_Form.php" class="home"> <b> << Back </b></a>
         <form>
         <h1>Sign Up</h1>
         <input type="text" placeholder="User ID" id="text" required><div class="text"><img src="Images/login/user.png" width="100%" height="100%"></div></input>
@@ -437,7 +437,7 @@
         <input type="password" placeholder="Confirm Password" id="password" required><div class="confirm_password"><img src="Images/login/password.png" width="100%" height="100%"></div></input>
         <br>
         <input type="checkbox"><div class="text1"><b>I Agree to all the<a href="#" style="text-decoration: underline;left: 0.5vw;top: 0vw;">Terms & Conditions</a></b></div></input>
-        <a href="Sign_In.html"><b>Already have an Account ?</b></a>
+        <a href="Sign_In.php"><b>Already have an Account ?</b></a>
         <br>
         <button class="button">Sign Up</button>
         <br>
